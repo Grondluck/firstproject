@@ -9,3 +9,4 @@ class DiscountTest(TestCase):
     test1 = products.objects.get(name="test")
     self.assertEqual(test1.discount(), 140)
     
+интересно, но нифига не понятно)
